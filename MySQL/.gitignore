@@ -1,0 +1,7 @@
+# Ignore system & private files
+*.m4a
+*.vtt
+*.txt
+.DS_Store
+Thumbs.db
+
